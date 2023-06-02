@@ -1,0 +1,12 @@
+ipython
+notebook
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+black
+isort
+flake8
+black[jupyter]
