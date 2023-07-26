@@ -46,4 +46,7 @@ El data set contenía una amplia variedad de variables que caracterizan la forma
 
 (Idea: hacer el gráfico de distribuciones de pc1 por día, en lugar de circularidad y redondez.)
 
+La variable "Esferoide", la cual está categorizada como "si" y "no" fue tansformada a valores numéricos -1 y 0 respectivamente- para facilitar el trabajo con esta variable en futuros análisis de clasificación.
+
+
 En conclusión, el análisis del dataset nos sugiere que las variables más prometedoras para la clasificación de los agregados según sean tumoresferas, son el área y la redondez, además de permitirnos identificar datos erróneos en el día 6. Esto junto al resto del análisis realizado nos da una base firme para afrontar la futura tarea de clasificación.
